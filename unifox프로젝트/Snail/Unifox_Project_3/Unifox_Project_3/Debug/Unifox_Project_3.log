@@ -1,0 +1,8 @@
+﻿  소스.cpp
+C:\Users\한성민\Desktop\unifox프로젝트\미정\Unifox_Project_3\Unifox_Project_3\소스.cpp(54,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\한성민\Desktop\unifox프로젝트\미정\Unifox_Project_3\Unifox_Project_3\소스.cpp(85,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\한성민\Desktop\unifox프로젝트\미정\Unifox_Project_3\Unifox_Project_3\소스.cpp(85,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\한성민\Desktop\unifox프로젝트\미정\Unifox_Project_3\Unifox_Project_3\소스.cpp(93,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\한성민\Desktop\unifox프로젝트\미정\Unifox_Project_3\Unifox_Project_3\소스.cpp(265,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\한성민\Desktop\unifox프로젝트\미정\Unifox_Project_3\Unifox_Project_3\소스.cpp(121): warning C4715: 'keyControl': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Unifox_Project_3.vcxproj -> C:\Users\한성민\Desktop\unifox프로젝트\미정\Unifox_Project_3\Debug\Unifox_Project_3.exe
